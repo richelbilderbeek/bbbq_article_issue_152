@@ -40,3 +40,5 @@ vignettes/*.pdf
 *.log
 *.fasta
 *.gz
+*.zip
+*.tmhmm
